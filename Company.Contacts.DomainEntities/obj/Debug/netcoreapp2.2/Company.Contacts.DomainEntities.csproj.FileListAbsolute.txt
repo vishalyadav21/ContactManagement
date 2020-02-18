@@ -1,0 +1,16 @@
+C:\Users\Ishank.Dhole\source\repos\ContactManagement\Company.Contacts.DomainEntities\bin\Debug\netcoreapp2.2\Company.Contacts.DomainEntities.deps.json
+C:\Users\Ishank.Dhole\source\repos\ContactManagement\Company.Contacts.DomainEntities\bin\Debug\netcoreapp2.2\Company.Contacts.DomainEntities.dll
+C:\Users\Ishank.Dhole\source\repos\ContactManagement\Company.Contacts.DomainEntities\bin\Debug\netcoreapp2.2\Company.Contacts.DomainEntities.pdb
+C:\Users\Ishank.Dhole\source\repos\ContactManagement\Company.Contacts.DomainEntities\obj\Debug\netcoreapp2.2\Company.Contacts.DomainEntities.csproj.CoreCompileInputs.cache
+C:\Users\Ishank.Dhole\source\repos\ContactManagement\Company.Contacts.DomainEntities\obj\Debug\netcoreapp2.2\Company.Contacts.DomainEntities.AssemblyInfoInputs.cache
+C:\Users\Ishank.Dhole\source\repos\ContactManagement\Company.Contacts.DomainEntities\obj\Debug\netcoreapp2.2\Company.Contacts.DomainEntities.AssemblyInfo.cs
+C:\Users\Ishank.Dhole\source\repos\ContactManagement\Company.Contacts.DomainEntities\obj\Debug\netcoreapp2.2\Company.Contacts.DomainEntities.dll
+C:\Users\Ishank.Dhole\source\repos\ContactManagement\Company.Contacts.DomainEntities\obj\Debug\netcoreapp2.2\Company.Contacts.DomainEntities.pdb
+C:\Users\Ishank.Dhole\source\repos\ContactManagement\Company.Contacts.DomainEntities\obj\Debug\netcoreapp2.2\Company.Contacts.DomainEntities.csprojAssemblyReference.cache
+E:\ttt\ContactManagement\Company.Contacts.DomainEntities\bin\Debug\netcoreapp2.2\Company.Contacts.DomainEntities.deps.json
+E:\ttt\ContactManagement\Company.Contacts.DomainEntities\bin\Debug\netcoreapp2.2\Company.Contacts.DomainEntities.dll
+E:\ttt\ContactManagement\Company.Contacts.DomainEntities\bin\Debug\netcoreapp2.2\Company.Contacts.DomainEntities.pdb
+E:\ttt\ContactManagement\Company.Contacts.DomainEntities\obj\Debug\netcoreapp2.2\Company.Contacts.DomainEntities.AssemblyInfoInputs.cache
+E:\ttt\ContactManagement\Company.Contacts.DomainEntities\obj\Debug\netcoreapp2.2\Company.Contacts.DomainEntities.AssemblyInfo.cs
+E:\ttt\ContactManagement\Company.Contacts.DomainEntities\obj\Debug\netcoreapp2.2\Company.Contacts.DomainEntities.dll
+E:\ttt\ContactManagement\Company.Contacts.DomainEntities\obj\Debug\netcoreapp2.2\Company.Contacts.DomainEntities.pdb
