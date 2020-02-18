@@ -62,11 +62,10 @@ namespace Company.Contact.WebApp.HttpUtility
                     var apiUrl2 = "http://localhost:56048/v1/contacts/";
                     string data = JsonConvert.SerializeObject(postObject);
                     var response = webClient.UploadString(apiUrl2, data);
-                    var result = JsonConvert.DeserializeObject<bool>(response);
-                    return result;
+                    return true;
                 }
             }
-            catch (Exception)
+            catch (Exception ex)
             {
                 return false;
             }
